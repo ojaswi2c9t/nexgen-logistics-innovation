@@ -1,0 +1,4 @@
+warehouse_id,location,capacity_sqft,current_utilization_sqft,inventory_value,status
+WH001,New York,50000,35000,1250000,Operational
+WH002,Los Angeles,75000,55000,1800000,Operational
+WH003,Chicago,60000,42000,1500000,Operational

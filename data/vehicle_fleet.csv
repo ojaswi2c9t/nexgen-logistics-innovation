@@ -1,0 +1,21 @@
+vehicle_id,vehicle_type,carrier,capacity_kg,last_maintenance_date,status
+VH001,Truck,CarrierA,10000,2022-12-15,Active
+VH002,Van,CarrierB,5000,2023-01-10,Active
+VH003,Truck,CarrierC,12000,2022-11-20,Active
+VH004,Van,CarrierA,4500,2023-01-05,Active
+VH005,Truck,CarrierB,11000,2022-12-30,Active
+VH006,Refrigerated Truck,CarrierC,8000,2023-01-20,Active
+VH007,Van,CarrierA,5000,2022-12-10,Active
+VH008,Truck,CarrierB,10000,2023-01-15,Active
+VH009,Refrigerated Truck,CarrierC,7500,2022-11-25,Active
+VH010,Van,CarrierA,4500,2023-01-08,Active
+VH011,Truck,CarrierB,12000,2022-12-28,Active
+VH012,Truck,CarrierC,11000,2023-01-25,Active
+VH013,Van,CarrierA,5000,2022-12-18,Active
+VH014,Truck,CarrierB,10000,2023-01-12,Active
+VH015,Refrigerated Truck,CarrierC,8000,2022-11-30,Active
+VH016,Van,CarrierA,4500,2023-01-03,Active
+VH017,Truck,CarrierB,11000,2022-12-22,Active
+VH018,Truck,CarrierC,12000,2023-01-28,Active
+VH019,Van,CarrierA,5000,2022-12-12,Active
+VH020,Truck,CarrierB,10000,2023-01-18,Active

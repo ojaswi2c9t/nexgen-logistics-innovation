@@ -1,0 +1,21 @@
+route_id,origin_warehouse,destination_city,distance_km,estimated_travel_time_hours
+RT001,WH001,New York,350,4.5
+RT002,WH002,Los Angeles,1200,15.0
+RT003,WH003,Chicago,800,10.0
+RT004,WH001,Miami,1100,14.0
+RT005,WH002,Seattle,1500,19.0
+RT006,WH003,Boston,900,11.5
+RT007,WH001,Atlanta,600,7.5
+RT008,WH002,Dallas,400,5.0
+RT009,WH003,Denver,1000,12.5
+RT010,WH001,Phoenix,1300,16.5
+RT011,WH002,Detroit,700,9.0
+RT012,WH003,Minneapolis,1100,14.0
+RT013,WH001,Tampa,850,11.0
+RT014,WH002,Houston,500,6.5
+RT015,WH003,Portland,1400,17.5
+RT016,WH001,San Diego,1250,15.5
+RT017,WH002,Orlando,900,11.5
+RT018,WH003,Charlotte,800,10.0
+RT019,WH001,Jacksonville,950,12.0
+RT020,WH002,Las Vegas,1100,14.0

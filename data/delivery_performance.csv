@@ -1,0 +1,21 @@
+order_id,actual_delivery_date,delivery_status,delay_reason,performance_notes
+ORD001,2023-01-18,Delayed,Weather,Heavy snowstorm in region
+ORD002,2023-01-18,On Time,,Delivered as promised
+ORD003,2023-01-20,Delayed,Traffic,Accident on highway
+ORD004,2023-01-20,On Time,,Delivered as promised
+ORD005,2023-01-22,Delayed,Carrier Issue,Vehicle breakdown
+ORD006,2023-01-22,On Time,,Delivered as promised
+ORD007,2023-01-24,Delayed,Weather,Heavy rain affected roads
+ORD008,2023-01-24,On Time,,Delivered as promised
+ORD009,2023-01-26,Delayed,Traffic,Rush hour congestion
+ORD010,2023-01-26,On Time,,Delivered as promised
+ORD011,2023-01-28,Delayed,Carrier Issue,Late pickup from warehouse
+ORD012,2023-01-28,On Time,,Delivered as promised
+ORD013,2023-01-30,Delayed,Weather,Ice on roads
+ORD014,2023-01-30,On Time,,Delivered as promised
+ORD015,2023-02-01,Delayed,Traffic,Construction zone
+ORD016,2023-02-01,On Time,,Delivered as promised
+ORD017,2023-02-03,Delayed,Carrier Issue,Driver shortage
+ORD018,2023-02-03,On Time,,Delivered as promised
+ORD019,2023-02-05,Delayed,Weather,Flooding in area
+ORD020,2023-02-05,On Time,,Delivered as promised

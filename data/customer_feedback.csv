@@ -1,0 +1,21 @@
+order_id,customer_rating,feedback_comments,delivery_satisfaction
+ORD001,3,Delivery was delayed due to weather,Neutral
+ORD002,5,Fast and reliable delivery,Very Satisfied
+ORD003,2,Significant delay affected my plans,Dissatisfied
+ORD004,5,Exactly on time as promised,Very Satisfied
+ORD005,3,Late delivery caused inconvenience,Neutral
+ORD006,5,Excellent service and fast delivery,Very Satisfied
+ORD007,2,Weather delay was frustrating,Dissatisfied
+ORD008,5,Prompt and professional delivery,Very Satisfied
+ORD009,3,Traffic delay could have been communicated better,Neutral
+ORD010,5,Perfect timing and condition,Very Satisfied
+ORD011,2,Warehouse delay affected delivery,Dissatisfied
+ORD012,5,Overnight delivery was flawless,Very Satisfied
+ORD013,3,Winter road conditions caused delay,Neutral
+ORD014,5,Express delivery exceeded expectations,Very Satisfied
+ORD015,2,Construction delay was not communicated,Dissatisfied
+ORD016,5,Quick and efficient service,Very Satisfied
+ORD017,3,Carrier issue caused late delivery,Neutral
+ORD018,5,Timely and careful handling,Very Satisfied
+ORD019,2,Flood delay was unexpected,Dissatisfied
+ORD020,5,Reliable overnight delivery,Very Satisfied
