@@ -14,7 +14,8 @@
 
 ## Features
 
-- **Delay Prediction**: Machine learning model predicts the likelihood of delivery delays
+- **Delay Predic<img width="1366" height="507" alt="dashboard" src="https://github.com/user-attachments/assets/32cb93bd-e7af-4052-a960-4128263f65b1" />
+tion**: Machine learning model predicts the likelihood of delivery delays
 - **Route Risk Analysis**: Identifies high-risk routes and destinations
 - **Cost Impact Visualization**: Shows how delays affect delivery costs
 - **Customer Risk Dashboard**: Analyzes customer satisfaction in relation to delivery performance
